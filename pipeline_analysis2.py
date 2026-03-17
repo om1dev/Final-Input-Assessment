@@ -1,3 +1,14 @@
+# Challenge 2: The Trend Analyzer (Medium) 
+# Goal: Implement logic to handle data sequences and conditional filtering. 
+# ● Topics: Operators, If...Else, Tuples, Dictionaries, While/For Loops. 
+# ● Task: Write a function that analyzes a dictionary of daily stock prices. 
+# ● Objective: 
+# 1. Input: A dictionary where keys are dates and values are prices. 
+# 2. Calculate the average price using a for loop. 
+# 3. Identify "Volatility Days"—any day where the price is 5% higher or lower than the 
+# average. 
+# 4. Store the results in a list of tuples: (date, status). 
+
 
 # Input: A dictionary where keys are dates and values are prices. 
 dict1 = {
